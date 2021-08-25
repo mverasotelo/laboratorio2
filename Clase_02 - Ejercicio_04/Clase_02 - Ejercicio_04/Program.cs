@@ -20,14 +20,47 @@ namespace Clase_02___Ejercicio_04
     {
         static void Main(string[] args)
         {
-            float num1 = 80F;
-            float num2 = 4F;
+            char continuar;
 
-            Console.WriteLine($"La suma de {num1} + {num2} es {Calculadora.Calcular(num1,num2,'+')}");
-            Console.WriteLine($"La resta de {num1} - {num2} es {Calculadora.Calcular(num1, num2, '-')}");
-            Console.WriteLine($"La multiplicacion de {num1} * {num2} es {Calculadora.Calcular(num1, num2, '*')}");
-            Console.WriteLine($"La division de {num1} / {num2} es {Calculadora.Calcular(num1, num2, '/')}");
+            Console.WriteLine("{0,20}\n", "CALCULADORA");
 
+            do
+            {
+                Console.Write("Ingrese el primer operando: ");
+                string primerNumeroIngresado = Console.ReadLine();
+                Console.WriteLine("");
+
+                Console.Write("Ingrese el segundo operando: ");
+                string segundoNumeroIngresado = Console.ReadLine();
+                Console.WriteLine("");
+
+                Console.Write("Ingrese la operacion ( +, -, * o / ): ");
+                char operacion = char.Parse(Console.ReadLine());
+                Console.WriteLine("");
+
+                while (operacion != '+' && operacion != '-' && operacion != '*' && operacion != '/')
+                {
+                    Console.Write("Operacion incorrecta. Ingrese +, -, * o / : ");
+                    operacion = char.Parse(Console.ReadLine());
+                }
+
+                if (float.TryParse(primerNumeroIngresado, out float num1) && float.TryParse(segundoNumeroIngresado, out float num2))
+                {
+                    if( operacion == '/' && !Calculadora.Validar(num2) )
+                    {
+                        Console.WriteLine("-- No se puede dividir por 0 --\n");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"-- El resultado de {num1}{operacion}{num2} es {Calculadora.Calcular(num1, num2, operacion)} --\n");
+                    }
+                }
+
+                Console.Write("Desea continuar (S/N)? ");
+                continuar = char.ToUpper(char.Parse(Console.ReadLine()));
+                Console.WriteLine("");
+
+            } while (continuar == 'S');
         }
     }
 }

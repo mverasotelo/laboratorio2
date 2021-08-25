@@ -30,7 +30,14 @@ namespace Biblioteca
                     break;
 
                 case '/':
-                    resultado = primerOperando / segundoOperando;
+                    if (Validar(segundoOperando))
+                    {
+                        resultado = primerOperando / segundoOperando;
+                    }
+                    else
+                    {
+                        resultado = float.NaN;
+                    }
                     break;
 
                 default:
@@ -39,5 +46,16 @@ namespace Biblioteca
             }
             return resultado;
         }
+
+        /// <summary>
+        /// Valida que el segundo operando sea distinto de 0 (para division)
+        /// </summary>
+        /// <param name="segundoOperando"></param>
+        /// <returns>devuelve un booleano true si es distinto de cero y false si es cero</returns>
+        public static bool Validar(float segundoOperando)
+        {
+            return segundoOperando != 0;
+        }
+
     }
 }
