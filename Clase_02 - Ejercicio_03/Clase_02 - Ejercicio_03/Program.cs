@@ -23,7 +23,6 @@ namespace Clase_02___Ejercicio_03
 
             Console.WriteLine($"El numero {numeroEnDecimal} en binario es: {Conversor.ConvertirDecimalABinario(numeroEnDecimal)}");
             Console.WriteLine($"El numero {numeroEnBinario} en decimal es: {Conversor.ConvertirBinarioADecimal(numeroEnBinario)}");
-
         }
     }
 }

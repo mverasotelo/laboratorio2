@@ -5,7 +5,11 @@ namespace Biblioteca
 {
     public class Conversor
     {
-
+        /// <summary>
+        /// Convierte un numero entero decimal al sistema binario
+        /// </summary>
+        /// <param name="numero">numero entero decimal a convertir</param>
+        /// <returns>devuelve el numero en binario</returns>
         public static string ConvertirDecimalABinario(int numero)
         {
             long digito;
@@ -20,6 +24,11 @@ namespace Biblioteca
             return binario.ToString();
         }
 
+        /// <summary>
+        /// Convierte un numero entero binario al sistema decimal
+        /// </summary>
+        /// <param name="binario">numero entero binario a convertir</param>
+        /// <returns>devuelve el numero en decimal</returns>
         public static int ConvertirBinarioADecimal(int binario) 
         {
             int numero = 0;
