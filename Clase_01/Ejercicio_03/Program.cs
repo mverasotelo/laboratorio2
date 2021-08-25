@@ -21,6 +21,7 @@ namespace Ejercicio_03
             int numero;
             string numeroIngresado;
             bool continuar = false;
+            bool esPrimo;
 
             do
             {
@@ -32,9 +33,9 @@ namespace Ejercicio_03
                 {
                     continuar = false;
                     Console.WriteLine("Numeros primos hasta el {0}:", numero); // * Mostrar por pantalla todos los números primos que haya hasta el número que ingrese el usuario por consola.
-                    for (int i = 1; i < numero; i++)
+                    for (int i = 2; i < numero; i++)
                     {
-                        bool esPrimo = true;
+                        esPrimo = true;
                         for (int j = 2; j < i; j++)
                         {
                             if (i % j == 0)
