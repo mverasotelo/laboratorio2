@@ -1,0 +1,19 @@
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.exe
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.deps.json
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.runtimeconfig.json
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.dll
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\ref\Clase_04 - EjercicioI01.dll
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Clase_04 - EjercicioI01.pdb
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.csproj.CopyComplete
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.dll
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\ref\Clase_04 - EjercicioI01.dll
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.pdb
+C:\Users\mer-v\source\repos\Clase_04 - EjercicioI01\Clase_04 - EjercicioI01\obj\Debug\net5.0\Clase_04 - EjercicioI01.genruntimeconfig.cache

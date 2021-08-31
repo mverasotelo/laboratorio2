@@ -36,9 +36,13 @@ namespace Biblioteca
 
         private float CalcularPromedio()
         {
-            return (notaPrimerParcial + (float)notaSegundoParcial) / 2; //con castear uno solo ya esta
+            return (notaPrimerParcial + (float)notaSegundoParcial) / 2;
         }
 
+        /// <summary>
+        /// Define la nota final de un alumno. Si el alumno no alcanza el 4 en ambos parciales, la nota es -1, si si lo hizo, la nota se define mediante la generacion de un numero random entre 6 y 10.
+        /// </summary>
+        /// <returns>nota final</returns>
         public double CalcularNotaFinal()
         {
             double notaFinal = -1;
@@ -46,10 +50,13 @@ namespace Biblioteca
             {
                 notaFinal = random.Next(6, 11);
             }
-
             return notaFinal;
         }
 
+        /// <summary>
+        /// Muestra la informacion de un estudiante en formato string
+        /// </summary>
+        /// <returns>string con info</returns>
         public string Mostrar()
         {
             StringBuilder info = new StringBuilder();

@@ -10,9 +10,9 @@ namespace Clase_03___Ejercicio_I03
             Console.Title = "El ejemplo universal";
 
             Estudiante[] estudiantes = new Estudiante[3];
-            estudiantes[0] = new Estudiante("Mercedes", "1543", "Vera Sotelo");
-            estudiantes[1] = new Estudiante("di Rago", "1545", "Julian");
-            estudiantes[2] = new Estudiante("Vera", "1548", "Maria");
+            estudiantes[0] = new Estudiante("Vera", "1543", "Mercedes");
+            estudiantes[1] = new Estudiante("Perez", "1545", "Julian");
+            estudiantes[2] = new Estudiante("Garcia", "1548", "Maria");
 
             estudiantes[0].SetNotaPrimerParcial(8);
             estudiantes[1].SetNotaPrimerParcial(5);
