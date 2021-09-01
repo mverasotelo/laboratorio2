@@ -7,15 +7,6 @@ namespace Biblioteca
         private int cantidadSumas;
 
         /// <summary>
-        /// Getter de cantidad de sumas
-        /// </summary>
-        /// <returns>cantidad de sumas</returns>
-        public int GetCantidadSumas()
-        {
-            return cantidadSumas;
-        }
-
-        /// <summary>
         /// Constructor de la clase Sumador asignando a cantidadSumas el valor pasado por parametro
         /// </summary>
         /// <param name="cantidadSumas">cantidad de sumas pasado por parametro</param>
