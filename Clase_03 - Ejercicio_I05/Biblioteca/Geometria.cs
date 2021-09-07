@@ -36,9 +36,9 @@ namespace Geometria
         public Rectangulo(Punto vertice1, Punto vertice3)
         {
             this.vertice1 = vertice1;
-            //this.vertice2 = new Punto(vertice1.GetX(), vertice3.GetY());
+            this.vertice2 = new Punto(vertice1.GetX(), vertice3.GetY());
             this.vertice3 = vertice3;
-            //this.vertice4 = new Punto(vertice3.GetX(), vertice1.GetY());
+            this.vertice4 = new Punto(vertice3.GetX(), vertice1.GetY());
         }
 
         public string GetVertice1()
