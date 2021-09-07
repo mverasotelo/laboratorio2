@@ -16,9 +16,9 @@ namespace Clase_05___Ejercicios_I01
 
         public frmSaludo(String titulo, String mensaje)
         {
+            InitializeComponent();
             lblTitulo.Text = titulo;
             lblMensaje.Text = mensaje;
-            InitializeComponent();
         }
 
         private void Form2_Load(object sender, EventArgs e)
