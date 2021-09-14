@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PuestoDeConsulta/1.0.0": {
+        "dependencies": {
+          "AtencionAlCliente": "1.0.0"
+        },
+        "runtime": {
+          "PuestoDeConsulta.dll": {}
+        }
+      },
+      "AtencionAlCliente/1.0.0": {
+        "runtime": {
+          "AtencionAlCliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PuestoDeConsulta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtencionAlCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
