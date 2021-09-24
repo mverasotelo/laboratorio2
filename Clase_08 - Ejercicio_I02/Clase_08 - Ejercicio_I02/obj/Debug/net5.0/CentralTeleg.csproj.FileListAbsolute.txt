@@ -1,0 +1,5 @@
+C:\Users\mer-v\source\repos\Clase_08 - Ejercicio_I02\Clase_08 - Ejercicio_I02\obj\Debug\net5.0\CentralTeleg.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Clase_08 - Ejercicio_I02\Clase_08 - Ejercicio_I02\obj\Debug\net5.0\CentralTeleg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Clase_08 - Ejercicio_I02\Clase_08 - Ejercicio_I02\obj\Debug\net5.0\CentralTeleg.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Clase_08 - Ejercicio_I02\Clase_08 - Ejercicio_I02\obj\Debug\net5.0\CentralTeleg.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Clase_08 - Ejercicio_I02\Clase_08 - Ejercicio_I02\obj\Debug\net5.0\CentralTeleg.csproj.CoreCompileInputs.cache

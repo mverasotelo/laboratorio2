@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralTeleg", "Clase_08 - Ejercicio_I02\CentralTeleg.csproj", "{3BFAAA2E-4657-4494-B217-D2D698D55974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentralTelefonica", "Clase_08 - Ejercicio_I02\CentralTelefonica.csproj", "{3BFAAA2E-4657-4494-B217-D2D698D55974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Biblioteca\Centralita.csproj", "{4552D8DD-0430-47E5-BB68-65AB7290EAD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita", "Biblioteca\Centralita.csproj", "{4552D8DD-0430-47E5-BB68-65AB7290EAD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

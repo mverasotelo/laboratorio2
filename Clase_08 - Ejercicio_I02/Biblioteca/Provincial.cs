@@ -17,6 +17,10 @@ namespace Centralita
 
         public float CostoLlamada { get => CalcularCosto(); }
 
+        public Provincial(Franja miFranja, Llamada llamada) : base(llamada.Duracion,llamada.NroDestino, llamada.NroOrigen)
+        {
+            franjaHoraria = miFranja;
+        }
 
         public Provincial(string origen, Franja miFranja, float duracion, string destino) : base(duracion, destino, origen)
         {
