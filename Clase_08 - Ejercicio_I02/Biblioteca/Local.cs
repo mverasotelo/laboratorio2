@@ -12,21 +12,26 @@ namespace Centralita
 
         public float CostoLlamada { get => CalcularCosto(); }
 
-        public Local(string origen, float duracion, string destino, float costo) : base(duracion,destino,origen)
+        public Local(Llamada llamada, float costo) : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
         {
             this.costo = costo;
+            ;
+        }
+
+        public Local(string origen, float duracion, string destino, float costo):this(new Llamada(duracion, destino, origen), costo) 
+        {
         }
 
 
         public new string Mostrar() 
         {
             StringBuilder retorno = new StringBuilder();
-            retorno.Append($"{base.Mostrar()} - Costo: ${CostoLlamada}");
+            retorno.AppendLine($"{base.Mostrar()} - Costo: ${CostoLlamada:N2}");
 
             return retorno.ToString();
         }
 
-        private float CalcularCosto()
+        protected float CalcularCosto()
         {
             return duracion * costo;
         }

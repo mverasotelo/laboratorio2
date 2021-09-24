@@ -30,7 +30,7 @@ namespace Centralita
         public string Mostrar()
         {
             StringBuilder retorno = new StringBuilder();
-            retorno.AppendLine($"Numero Origen: {nroOrigen} - Numero Destino: { nroDestino} - Duracion: {Duracion}");
+            retorno.Append($"Numero Origen: {nroOrigen} - Numero Destino: { nroDestino} - Duracion: {Duracion} min.");
 
             return retorno.ToString();
         }

@@ -7,7 +7,7 @@ namespace Clase_08___Ejercicio_I02
     {
         static void Main(string[] args)
         {
-            Centralita c = new Centralita("Fede Center");
+            Centralita.Centralita c = new Centralita.Centralita("Fede Center");
 
             // Mis 4 llamadas
             Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);

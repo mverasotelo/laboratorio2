@@ -30,7 +30,7 @@ namespace Centralita
         public new string Mostrar()
         {
             StringBuilder retorno = new StringBuilder();
-            retorno.Append($"{base.Mostrar()} - Costo: ${CostoLlamada} - Franja Horaria: {franjaHoraria}");
+            retorno.AppendLine($"{base.Mostrar()} - Costo: ${CostoLlamada:N2} - Franja Horaria: {franjaHoraria}");
 
             return retorno.ToString();
         }
