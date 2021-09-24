@@ -1,0 +1,12 @@
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\bin\Debug\net5.0\Bibilioteca.deps.json
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\bin\Debug\net5.0\Bibilioteca.dll
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\bin\Debug\net5.0\ref\Bibilioteca.dll
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\bin\Debug\net5.0\Bibilioteca.pdb
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.dll
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\ref\Bibilioteca.dll
+C:\Users\mer-v\source\repos\Clase_09 - Ejercicio_I02\Bibilioteca\obj\Debug\net5.0\Bibilioteca.pdb
