@@ -2,8 +2,18 @@
 
 namespace Biblioteca
 {
-    public class Sobrescrito
+    public abstract class Sobrescrito
     {
+
+        protected string miAtributo;
+
+        public Sobrescrito() :base()
+        {
+        }
+
+        abstract public string MiPropiedad { get; }
+
+        abstract public string MiMetodo();
 
         public override string ToString()
         {
@@ -12,7 +22,7 @@ namespace Biblioteca
 
         public override bool Equals(object obj)
         {
-            return obj.GetType() == this.GetType();
+            return obj.GetType() == typeof(Sobrescrito);
         }
 
         public override int GetHashCode()

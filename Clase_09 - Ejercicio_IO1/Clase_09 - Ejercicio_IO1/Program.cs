@@ -8,7 +8,7 @@ namespace Clase_09___Ejercicio_IO1
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio Sobre-Sobrescrito";
-            Sobrescrito objetoSobrescrito = new Sobrescrito();
+            Sobrescrito objetoSobrescrito = new SobreSobrescrito();
 
             Console.WriteLine(objetoSobrescrito.ToString());
 
