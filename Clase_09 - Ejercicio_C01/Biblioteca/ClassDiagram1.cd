@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Centralita.Centralita">
+    <Position X="2" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAQAAAAAAAAAAAIQIABAAAAAAAAAAAAAAQI=</HashCode>
+      <FileName>Centralita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Centralita.Llamada">
+    <Position X="5.5" Y="0.5" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Centralita.Llamada.TipoLlamada">
+        <TypeIdentifier>
+          <NewMemberFileName>Llamada.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAgAAAQAAAAAAAAACAgAAAABAAAAAQAAAAgAAAA=</HashCode>
+      <FileName>Llamada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Centralita.Local">
+    <Position X="3.25" Y="6" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAA=</HashCode>
+      <FileName>Local.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Centralita.Provincial">
+    <Position X="8.25" Y="6" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Centralita.Provincial.Franja">
+        <TypeIdentifier>
+          <NewMemberFileName>Provincial.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAAAAQgAAAAAA=</HashCode>
+      <FileName>Provincial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

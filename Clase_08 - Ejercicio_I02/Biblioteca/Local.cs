@@ -31,6 +31,10 @@ namespace Centralita
             return retorno.ToString();
         }
 
+        /// <summary>
+        /// Calcula el costo de una llamada segun su duracion y el valor del minuto
+        /// </summary>
+        /// <returns></returns>
         protected float CalcularCosto()
         {
             return duracion * costo;
