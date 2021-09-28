@@ -1,0 +1,16 @@
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.exe
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.deps.json
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.runtimeconfig.json
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.dll
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\ref\EjercicioParcial.dll
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\bin\Debug\net5.0\EjercicioParcial.pdb
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.dll
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\ref\EjercicioParcial.dll
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.pdb
+C:\Users\mer-v\source\repos\EjercicioParcial\EjercicioParcial\obj\Debug\net5.0\EjercicioParcial.genruntimeconfig.cache
