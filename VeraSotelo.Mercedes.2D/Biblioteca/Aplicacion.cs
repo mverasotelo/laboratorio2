@@ -56,7 +56,35 @@ namespace Biblioteca
         {
             return nombre;
         }
-    
+        /// <summary>
+        /// Recibe una lista de aplicaciones y devuelve la instancia 
+        /// de la aplicación que más tamaño tenga.
+        /// </summary>
+        /// <param name="listaApp"></param>
+        public static implicit operator Aplicacion(List<Aplicacion> listaApp)
+        {;
+            Aplicacion aplicacionMasPesada = null;
+
+            if(listaApp is not null && listaApp.Count > 0)
+            {
+                foreach(Aplicacion app in listaApp)
+                {
+                    if (aplicacionMasPesada is null)
+                    {
+                        aplicacionMasPesada = app;
+                    }
+                    else
+                    {
+                        if(app.Tamanio > aplicacionMasPesada.Tamanio)
+                        {
+                            aplicacionMasPesada = app;
+                        }
+                    }
+                }
+            }
+            return aplicacionMasPesada;
+        }
+
         /// <summary>
         /// Sobrecarga del operador ==
         /// </summary>
