@@ -1,0 +1,15 @@
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\Excepciones.dll
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\mer-v\source\repos\TestDrivenDevelopment\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CopyComplete
