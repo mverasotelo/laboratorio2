@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseGenerics-EjercicioI01Contabilidad", "ClaseGenerics-EjercicioI01Contabilidad\ClaseGenerics-EjercicioI01Contabilidad.csproj", "{D4E276F5-F055-4414-9598-0EC25B6E61FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{A0BF522A-EB65-4628-B4D1-C118CFDFF845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E276F5-F055-4414-9598-0EC25B6E61FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E276F5-F055-4414-9598-0EC25B6E61FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E276F5-F055-4414-9598-0EC25B6E61FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E276F5-F055-4414-9598-0EC25B6E61FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BF522A-EB65-4628-B4D1-C118CFDFF845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BF522A-EB65-4628-B4D1-C118CFDFF845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BF522A-EB65-4628-B4D1-C118CFDFF845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BF522A-EB65-4628-B4D1-C118CFDFF845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C846A40-52B8-4445-A503-F7EA367A8E2C}
+	EndGlobalSection
+EndGlobal
