@@ -12,10 +12,5 @@ namespace Biblioteca
             :base(message, inner)
         {
         }
-
-        public ParametrosVaciosExcepcion()
-        {
-
-        }
     }
 }

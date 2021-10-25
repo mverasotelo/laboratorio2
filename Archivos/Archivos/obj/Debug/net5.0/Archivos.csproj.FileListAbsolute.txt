@@ -1,0 +1,16 @@
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.exe
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.deps.json
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.json
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.dll
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\ref\Archivos.dll
+C:\Users\mer-v\source\repos\Archivos\Archivos\bin\Debug\net5.0\Archivos.pdb
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.dll
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\ref\Archivos.dll
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.pdb
+C:\Users\mer-v\source\repos\Archivos\Archivos\obj\Debug\net5.0\Archivos.genruntimeconfig.cache
