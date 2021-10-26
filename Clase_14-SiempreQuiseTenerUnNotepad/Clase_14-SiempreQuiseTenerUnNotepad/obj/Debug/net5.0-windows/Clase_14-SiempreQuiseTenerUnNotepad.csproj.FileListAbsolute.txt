@@ -16,3 +16,4 @@ C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-Siempre
 C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\ref\Clase_14-SiempreQuiseTenerUnNotepad.dll
 C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.pdb
 C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.genruntimeconfig.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14_SiempreQuiseTenerUnNotepad.Properties.Resources.resources

@@ -1,12 +1,7 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace Clase_14_SiempreQuiseTenerUnNotepad
@@ -14,7 +9,7 @@ namespace Clase_14_SiempreQuiseTenerUnNotepad
     public partial class FormNotepad : Form
     {
 
-        private string ruta;
+        private string archivo;
 
         public FormNotepad()
         {
@@ -23,27 +18,7 @@ namespace Clase_14_SiempreQuiseTenerUnNotepad
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog()
-            {
-                Filter = "Text files (*.txt)|*.txt",
-                Title = "Abrir archivo de texto"
-            };
-
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-                try
-                {
-                    ruta = openFileDialog.FileName;
-                    using (StreamReader str = new StreamReader(ruta))
-                    {
-                        rctNotePad.Text = str.ReadToEnd();
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show($"Security error.\n\nError message: {ex.Message}");
-                }
-            }
+            abrirArchivo();
         }
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
@@ -59,6 +34,31 @@ namespace Clase_14_SiempreQuiseTenerUnNotepad
         private void rctNotePad_TextChanged(object sender, EventArgs e)
         {
             lblToolStrip.Text = $"{ContarCaracteres()} caracteres";
+        }
+
+        private void abrirArchivo()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog()
+            {
+                Filter = "Text files (*.txt)|*.txt",
+                Title = "Abrir archivo de texto"
+            };
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    archivo = openFileDialog.FileName;
+                    using (StreamReader str = new StreamReader(archivo))
+                    {
+                        rctNotePad.Text = str.ReadToEnd();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MostrarMensajeError(ex);
+                }
+            }
         }
 
         private void guardarComo()
@@ -83,25 +83,25 @@ namespace Clase_14_SiempreQuiseTenerUnNotepad
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Security error.\n\nError message: {ex.Message}");
+                    MostrarMensajeError(ex);
                 }
             }
         }
 
         private void guardarArchivo()
         {
-            if (ruta is not null)
+            if (archivo is not null)
             {
                 try
                 {
-                    using (StreamWriter str = new StreamWriter(ruta))
+                    using (StreamWriter str = new StreamWriter(archivo))
                     {
                         str.Write(rctNotePad.Text);
                     }
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Security error.\n\nError message: {ex.Message}");
+                    MostrarMensajeError(ex);
                 }
             }
             else
@@ -114,6 +114,14 @@ namespace Clase_14_SiempreQuiseTenerUnNotepad
         {
             int caracteres = rctNotePad.Text.Count();
             return caracteres;
+        }
+
+        private void MostrarMensajeError(Exception e)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Error {e}");
+            sb.AppendLine(e.Message);
+            MessageBox.Show(sb.ToString());
         }
     }
 }

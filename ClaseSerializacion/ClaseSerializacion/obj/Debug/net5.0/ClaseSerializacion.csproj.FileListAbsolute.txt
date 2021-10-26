@@ -1,0 +1,16 @@
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.exe
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.deps.json
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.runtimeconfig.json
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.dll
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ref\ClaseSerializacion.dll
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\bin\Debug\net5.0\ClaseSerializacion.pdb
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.dll
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ref\ClaseSerializacion.dll
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.pdb
+C:\Users\mer-v\source\repos\ClaseSerializacion\ClaseSerializacion\obj\Debug\net5.0\ClaseSerializacion.genruntimeconfig.cache

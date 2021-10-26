@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase_15-LaListaDelSuper/1.0.0": {
+        "runtime": {
+          "Clase_15-LaListaDelSuper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_15-LaListaDelSuper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
