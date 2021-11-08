@@ -1,0 +1,41 @@
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.exe
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.deps.json
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.runtimeconfig.json
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\ref\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.pdb
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14_SiempreQuiseTenerUnNotepad.FormNotepad.resources
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.GenerateResource.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\ref\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.pdb
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.genruntimeconfig.cache
+C:\Users\mer-v\source\repos\Clase_14-SiempreQuiseTenerUnNotepad\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14_SiempreQuiseTenerUnNotepad.Properties.Resources.resources
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.exe
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.deps.json
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.runtimeconfig.json
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\ref\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.pdb
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14_SiempreQuiseTenerUnNotepad.FormNotepad.resources
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14_SiempreQuiseTenerUnNotepad.Properties.Resources.resources
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.GenerateResource.cache
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\ref\Clase_14-SiempreQuiseTenerUnNotepad.dll
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.pdb
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.genruntimeconfig.cache
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\IO.dll
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\bin\Debug\net5.0-windows\IO.pdb
+C:\Users\mer-v\source\repos\Clase_16-SiempreQuiseTenerUnNotepad Serializador\Clase_14-SiempreQuiseTenerUnNotepad\obj\Debug\net5.0-windows\Clase_14-SiempreQuiseTenerUnNotepad.csproj.CopyComplete

@@ -14,18 +14,12 @@ namespace Clase_15_LaListaDelSuper
 {
     public partial class FrmAltaModificacion : Form
     {
-        private string textoTxtObjeto;
-        private string txtBtnConfirmar;
-        private string formText;
-        private DialogResult dialogResult;
-
         public FrmAltaModificacion(string formText, string textoTxtObjeto, string txtBtnConfirmar)
         {
-            this.textoTxtObjeto = textoTxtObjeto;
-            this.formText = formText;
-            this.txtBtnConfirmar = txtBtnConfirmar;
-            dialogResult = new DialogResult();
             InitializeComponent();
+            this.Text = formText;
+            txtObjeto.Text = textoTxtObjeto;
+            btnConfirmar.Text = txtBtnConfirmar;
         }
 
         public string Objeto
@@ -36,19 +30,9 @@ namespace Clase_15_LaListaDelSuper
             }
         }
 
-        public DialogResult DResult
-        {
-            get
-            {
-                return dialogResult;
-            }
-        }
-
         private void FrmAltaModificacion_Load(object sender, EventArgs e)
         {
-            this.Text = formText;
-            txtObjeto.Text = textoTxtObjeto;
-            btnConfirmar.Text = txtBtnConfirmar;
+
         }
 
         private void btnConfirmar_Click(object sender, EventArgs e)
@@ -75,20 +59,20 @@ namespace Clase_15_LaListaDelSuper
 
         private void Confirmar()
         {
-            if (!String.IsNullOrEmpty(txtObjeto.Text))
+            if (!string.IsNullOrWhiteSpace(txtObjeto.Text))
             {
-                dialogResult = DialogResult.OK;
+                DialogResult = DialogResult.OK;
                 this.Close();
             }
             else
             {
-                MessageBox.Show("No puede ingresarse un dato vacío", "Error",MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("No puede ingresarse un dato vacío", "Validación",MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
         private void Cancelar()
         {
-            dialogResult = DialogResult.Cancel;
+            DialogResult = DialogResult.Cancel;
             this.Close();
         }
     }
