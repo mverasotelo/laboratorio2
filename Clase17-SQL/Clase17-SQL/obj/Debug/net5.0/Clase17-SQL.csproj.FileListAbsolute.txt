@@ -53,3 +53,4 @@ C:\Users\mer-v\source\repos\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL
 C:\Users\mer-v\source\repos\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\ref\Clase17-SQL.dll
 C:\Users\mer-v\source\repos\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.pdb
 C:\Users\mer-v\source\repos\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.genruntimeconfig.cache
+C:\Users\mer-v\source\repos\Clase17-SQL\Clase17-SQL\obj\Debug\net5.0\Clase17-SQL.csproj.CopyComplete

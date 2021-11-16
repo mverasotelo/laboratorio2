@@ -1,0 +1,20 @@
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.exe
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.deps.json
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.runtimeconfig.json
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.runtimeconfig.dev.json
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.dll
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\ref\Ejercicio I01 - Avisame Si Cambias.dll
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.pdb
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.csproj.AssemblyReference.cache
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio_I01___Avisame_Si_Cambias.FrmAvisador.resources
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.csproj.GenerateResource.cache
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.AssemblyInfoInputs.cache
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.AssemblyInfo.cs
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.csproj.CoreCompileInputs.cache
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.dll
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\ref\Ejercicio I01 - Avisame Si Cambias.dll
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.pdb
+C:\Users\mer-v\source\repos\Ejercicio I01 - Avisame Si Cambias\Ejercicio I01 - Avisame Si Cambias\obj\Debug\net5.0-windows\Ejercicio I01 - Avisame Si Cambias.genruntimeconfig.cache

@@ -31,7 +31,7 @@ namespace Biblioteca
                 SqlDataReader dataReader = comando.ExecuteReader();
                 while (dataReader.Read())
                 {
-                    listaEmpleados.Add(new Empleado(int.Parse(dataReader["ID_EMPLEADO"].ToString()), dataReader["NOMBRE"].ToString()
+                    listaEmpleados.Add(new Empleado(dataReader["NOMBRE"].ToString()
                     ,dataReader["APELLIDO"].ToString(), float.Parse(dataReader["SALARIO"].ToString())));
                 }
                 return listaEmpleados;
@@ -45,6 +45,53 @@ namespace Biblioteca
             {
                 conexion.Close();
             }                           
+        }
+
+        public static void Eliminar(int id)
+        {
+            try
+            {
+                comando.Parameters.Clear(); //HAY QUE LIMPIAR LOS PARAMETROS CUANDO TRABAJAMOS CON MIEMBROS ESTATICOS
+                conexion.Open();
+                comando.Parameters.AddWithValue("@id", id);
+                comando.CommandText = $"DELETE FROM EMPLEADOS WHERE ID_EMPLEADO=@id";
+
+                comando.ExecuteNonQuery();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally
+            {
+                conexion.Close();
+            }
+        }
+
+        public static void Guardar(Empleado empleado)
+        {
+            try
+            {
+                comando.Parameters.Clear(); //HAY QUE LIMPIAR LOS PARAMETROS CUANDO TRABAJAMOS CON MIEMBROS ESTATICOS
+                conexion.Open();
+                comando.Parameters.AddWithValue("@nombre", empleado.Nombre);
+                comando.Parameters.AddWithValue("@apellido", empleado.Apellido);
+                comando.Parameters.AddWithValue("@salario", empleado.Salario);
+
+                comando.CommandText = $"INSERT INTO EMPLEADOS (NOMBRE, APELLIDO, SALARIO) VALUES (@nombre, @apellido, @salario)";
+
+                comando.ExecuteNonQuery();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally
+            {
+                conexion.Close();
+            }
         }
     }
 }

@@ -12,19 +12,22 @@ namespace Biblioteca
         private string nombre;
         private string apellido;
         private float salario;
-        private bool estaActivo;
 
-        public Empleado(int idEmpleado, string nombre, string apellido, float salario)
+        public Empleado(string nombre, string apellido, float salario)
         {
-            this.idEmpleado = idEmpleado;
             this.nombre = nombre;
             this.apellido = apellido;
             this.salario = salario;
         }
 
+        public int IdEmpleado { get => idEmpleado; }
+        public string Nombre { get => nombre; }
+        public string Apellido { get => apellido; }
+        public float Salario { get => salario;}
+
         public string Mostrar()
         {
-            return $"{idEmpleado} - {nombre} {apellido} - ${salario}";
+            return $"{IdEmpleado} - {Nombre} {Apellido} - ${Salario}";
         }
     }
 }
